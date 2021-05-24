@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1,LOS SIMPSON
+https://473d55u61jc4r718.ezcdn285.net:8443/hls/zgzowaznb.m3u8?s=sCeEhQVWKNgqggIDlSU11Q&e=1621894213
+
+#EXTINF:-1, BOMERANG
+https://473d55u61jc4r718.ezcdn285.net:8443/hls/bolmwc.m3u8?s=ZRT_yDg9J7c6Zsb_I1qI7Q&e=1621895269
+
+#EXTINF:-1, Carton
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cv4EH8H7xDxBKRQCnS82krZG3TzHlkBe8YYEReORSuN10rHJFjR6y2L9d9sKMPq0cb5yGFm3i0PabfYkhGWBZpy1wYA0yfb7eBNkSSNwSs0omnOhKuDqyNliZ5wf7CgI6Dq4543jxsKKDABRHdQHEb0vK4VA5H7A6ydk7Twk28T0FhEqPyZM4rEZ_iPZYiXyOi7J9Br6BO4QTynpkFU9oUVEpt1tUaTyzwoHmUbcEzCoKC01j8kfEuOUXsOE8Pd643UNcX-1eOIGXPRjDX-SUopNbQVJtw_5rRW8CsbiO_mfrbQ5kOouomQXTH6g6QiHRoqBtgJBNuqEHaOmDBz7uoUpDDoBUsiO3bQg79cGhPTdfxxjF9MJfaDTLkjL_0Mq_biKDb9wT88QuUV6IR1KxA896uDX6k3lCBel31j3LCcejW2QP13hfH5Lil-RL-1QA4aFGX8_d6m0NQYzvOXD2NuT6Btsg06Kt2JInuVYE7RLbmOiC10I5V0b3MrIRTz3nMsd3UByqmKxFe3BqVbLlgd-GxMkL0MNNlSXhsO4Khj839dlzPqoKdHJWALUar4OiJBy57qTeboaXRZ8-CfAZ7JAMIb4e_c8VwxN0oRIa4NFXXaLXLVenrxNUuSoQfFbzdchdoMLq7LdPR8VPDsSYCKwEg7yGoy5McB4rtHGFHZ7Z5EOmOtPj1GPB1g4WzNm_-QvEK0EfitIdtDm3Q8K5vzdzgX4rfkoGOD1ejfTnt-PWiZCZUkM5CUm9YHvGqXlKiPKQJp0WaNu2A8ZkHlPzv9w3J6lntP0RW2IqhOrJJKt4cUHNi8YaqmGHxM-rUbUTCaU_imssOXgbih8cGcrg2kSEJ-xcm3bIyjRUnDnNrbu77IaDMzvn7HiNNxPi0KwAw.m3u8
+
+#EXTINF:-1,Disney junior
+https://473d55u61jc4r718.ezcdn285.net:8443/hls/34fft2cvx9sy.m3u8?s=WPgyy5ggXiHbhnqIcIJyhQ&e=1621895978
+
+#EXTINF:-1,nick 
+https://473d55u61jc4r718.ezcdn285.net:8443/hls/hg3b4k9kc.m3u8?s=xySZDObr7qmvRVtvlEzAtQ&e=1621896336
+
+#EXTINF:-1,Mega
+https://usher.ttvnw.net/api/channel/hls/mgv5cll.m3u8?allow_source=true&fast_bread=true&p=6637359&play_session_id=7ab54884a2936c369b6829d7d6dd30c4&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=ce92ff67faff105643902b373b280f5331262db9&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22mgv5cll%22%2C%22channel_id%22%3A608584728%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2237275a260b1ad98e%22%2C%22expires%22%3A1621876014%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.114.41.207%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1,DirectTV Sport
+https://e3.cdnfoxtv.com/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=vGgFtr-9X9NxqlGz7d667g&expires=1621889740&rnd=
+
